@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 - Django Bootstrap Forms (optional for improved form styling)
 - A compatible database (e.g., SQLite, PostgreSQL, MySQL)
 
-##Screenshots
+## Screenshots
 
 ![ Screenshots](Screenshots/tasklist2.png)
 
